@@ -1,0 +1,3 @@
+Simplest machine-learning KNN classifier written in C#, made according to John's video where he made simillar one in Python (https://www.youtube.com/watch?v=AoeEHqVSNOw)
+
+- my example uses IRIS dataset, splitted in half, first part is used for learning, second one for testing...

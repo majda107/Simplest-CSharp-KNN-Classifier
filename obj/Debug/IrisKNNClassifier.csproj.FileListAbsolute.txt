@@ -1,0 +1,7 @@
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\bin\Debug\IrisKNNClassifier.exe.config
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\bin\Debug\IrisKNNClassifier.exe
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\bin\Debug\IrisKNNClassifier.pdb
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\obj\Debug\IrisKNNClassifier.csproj.CoreCompileInputs.cache
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\obj\Debug\IrisKNNClassifier.exe
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\obj\Debug\IrisKNNClassifier.pdb
+C:\Users\Marián Trpkoš\source\repos\MachineLearning\IrisKNNClassifier\obj\Debug\IrisKNNClassifier.csprojAssemblyReference.cache
